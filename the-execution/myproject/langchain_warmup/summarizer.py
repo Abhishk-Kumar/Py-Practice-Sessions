@@ -1,9 +1,7 @@
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 import streamlit as st
-#   "transformers>=5.5.4",
-#   "together>=2.8.0",
-#  "sentence-transformers>=5.4.1",
+
 load_dotenv()
 import os
 api_key=os.getenv("api_key")

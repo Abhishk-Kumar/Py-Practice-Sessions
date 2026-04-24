@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "domain",
+        "task",
+        "tone_of_reply"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nYou are an expert in {domain} with deep knowledge and practical experience.\n\nYour task is:\n\"{task}\"\n\nInstructions:\n- Understand the problem clearly before responding.\n- Provide a structured and logical answer.\n- Use examples or code snippets if relevant.\n- Keep the explanation easy to follow and actionable.\n- Avoid unnecessary complexity unless required.\n\nTone of the response:\n{tone_of_reply}\n\nOutput Format:\n1. Brief summary of the solution\n2. Detailed explanation\n3. Practical example (if applicable)\n4. Final recommendation or conclusion\n\nNow generate the best possible response.\n\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
