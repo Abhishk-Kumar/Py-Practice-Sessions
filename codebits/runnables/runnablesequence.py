@@ -29,6 +29,7 @@ prompt2=PromptTemplate(
 )
 
 chain=RunnableSequence(prompt1, model, parser, prompt2, model, parser)
+# chain=RunnableSequence(prompt | model |parser | prompt2 | model |parser) 
 
 result=chain.invoke({'topic': "programming"})
 

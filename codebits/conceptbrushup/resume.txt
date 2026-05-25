@@ -1,0 +1,91 @@
+Abhishek Kumar
+Frontend Developer | MERN Stack Developer
+Shahjahanpur, Uttar Pradesh, India
+abhishek.kumar.dev@gmail.com
++91 9876543210
+https://github.com/abhishekkumar-dev
+https://linkedin.com/in/abhishekkumar-dev
+
+PROFESSIONAL SUMMARY
+Detail-oriented Frontend Developer with 2+ years of experience building responsive and scalable web applications using React.js, JavaScript, and the MERN stack. Skilled in developing modern UI/UX, integrating REST APIs, and optimizing application performance. Passionate about building clean, user-friendly digital experiences and solving real-world business problems through code.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, HTML5, CSS3
+Frontend: React.js, Next.js, Tailwind CSS, Bootstrap, Redux
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+Tools & Platforms: Git, GitHub, Postman, VS Code, Figma
+Concepts: REST APIs, Responsive Design, JWT Auth, MVC Architecture
+
+PROFESSIONAL EXPERIENCE
+
+Frontend Developer Intern
+Biz Trade Mart
+Jan 2024 – Apr 2024
+- Developed and maintained responsive frontend interfaces using React.js and Bootstrap.
+- Improved UI consistency and mobile responsiveness across multiple business pages.
+- Integrated REST APIs for dynamic product and category rendering.
+- Collaborated with backend developers to connect frontend components with live data.
+
+MERN Stack Developer Intern
+Neuform
+May 2024 – Aug 2024
+- Built full-stack modules using MongoDB, Express.js, React.js, and Node.js.
+- Developed authentication workflows using JWT and role-based access.
+- Created reusable UI components and optimized API response handling.
+- Assisted in debugging production issues and improving application performance.
+
+Frontend Developer Intern
+Planto AI
+Sep 2024 – Dec 2024
+- Worked on modern UI development for AI-powered dashboards.
+- Built reusable React components and interactive data visualization modules.
+- Improved dashboard accessibility and responsiveness for tablet and mobile users.
+- Collaborated with designers to translate Figma wireframes into production-ready interfaces.
+
+PROJECTS
+
+Snap Mart – E-Commerce Web Application
+Tech Stack: React.js, Node.js, Express.js, MongoDB
+- Developed a full-stack e-commerce platform with authentication and product management.
+- Implemented responsive product listings, cart functionality, and user login/signup.
+- Built backend APIs for product, user, and order management.
+
+CareerLink – Job Application Portal
+Tech Stack: MERN Stack
+- Built a job portal where applicants can browse and apply for jobs.
+- Implemented recruiter job posting and applicant tracking workflows.
+- Designed responsive dashboards for both recruiters and candidates.
+
+Data Visualization Dashboard
+Tech Stack: React.js, Flask, D3.js, MongoDB
+- Built an interactive analytics dashboard using D3.js for chart visualizations.
+- Integrated Flask APIs with MongoDB for dynamic filtering and data insights.
+- Visualized intensity, relevance, likelihood, country, and topic-based trends.
+
+Lazarev – AI/ML Product Design Agency Website
+Tech Stack: React.js, Tailwind CSS
+- Developed a modern agency website inspired by premium design systems.
+- Focused on advanced UI/UX, smooth animations, and responsive layouts.
+
+EDUCATION
+Bachelor of Technology in Computer Science
+Dr. A.P.J. Abdul Kalam Technical University
+2020 – 2024
+
+CERTIFICATIONS
+- Full Stack Web Development Certification
+- React.js Advanced Frontend Certification
+- JavaScript Algorithms and Data Structures
+
+ACHIEVEMENTS
+- Built and deployed multiple full-stack projects independently.
+- Strong understanding of scalable frontend architecture and clean UI systems.
+- Actively improving problem-solving and system design skills.
+
+SOFT SKILLS
+- Problem Solving
+- Communication
+- Team Collaboration
+- Adaptability
+- Attention to Detail
